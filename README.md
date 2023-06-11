@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Janhvi Rabade</h1>
 <h3 align="center">A passionate Website developer from India</h3>
 
-<img align="right" alt="codinging" width="400" src="https://img.freepik.com/free-vector/programmer-working-with-sql_52683-22997.jpg?w=740&t=st=1686392122~exp=1686392722~hmac=84151d0694906752a16d69498f0fe6a02457b2096cd6c59df274e170c322b541">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabadejanhvi-45&label=Profile%20views&color=0e75b6&style=flat" alt="rabadejanhvi-45" /> </p>
 
 - 🌱 I’m currently learning **Php Frameworks**
