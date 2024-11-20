@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabadejanhvi-45&label=Profile%20views&color=0e75b6&style=flat" alt="rabadejanhvi-45" /> </p>
 
-- 🌱 I’m currently learning **Php Frameworks**
+<!--- 🌱 I’m currently learning **Php Frameworks**-->
 
-- 📫 How to reach me **janhvirabade45@gmail.com**
+- 📫 How to reach me **janhvirabade04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
