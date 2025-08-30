@@ -17,9 +17,7 @@
 
 ## 💻 About Me
 Passionate about turning ideas into real-world applications and building scalable, maintainable, and efficient solutions.  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RabadeJanhvi-45) 
-[![Salesforce Profile](https://img.shields.io/badge/Salesforce-🌩️-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/janhvi-rabade)
+[📂 Portfolio (GitHub)](https://github.com/RabadeJanhvi-45) || [🌩️ Salesforce Profile](https://www.salesforce.com/trailblazer/janhvi-rabade)
 
 
 ---
