@@ -8,7 +8,7 @@
 </p>
 
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/janhvi-rabade/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/RabadeJanhvi-45"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://leetcode.com/u/janhvirabade/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -114,22 +114,6 @@ I'm a software professional with experience in **Java, Spring Boot, REST APIs, S
 | LifeQuest | A web-based application designed to streamline blood bank operations. | Verify repository | [View Repository](https://github.com/RabadeJanhvi-45/LifeQuest.github.io) |
 
 </details>
-
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RabadeJanhvi-45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&icon_color=818cf8" alt="Janhvi's GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabadeJanhvi-45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" alt="Most used languages"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=RabadeJanhvi-45&theme=tokyonight&hide_border=true&background=0d1117&stroke=818cf8&ring=818cf8&fire=f59e0b&currStreakLabel=818cf8)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## Beyond the Code
