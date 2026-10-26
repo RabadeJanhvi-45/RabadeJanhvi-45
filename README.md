@@ -116,6 +116,43 @@ I'm a software professional with experience in **Java, Spring Boot, REST APIs, S
 </details>
 ---
 
+## 🚀 What I'm Building Toward
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│  PHASE 1 (Now)       → Master Spring Boot & System Design│
+│  PHASE 2 (2026)      → Build production-ready projects   │
+│  PHASE 3 (2026–27)   → Land a strong backend role        │
+│  PHASE 4 (2027+)     → Build my own product or startup  │
+└─────────────────────────────────────────────────────────┘
+```
+
+### 📈 Current Learning Progress
+
+| **Focus Area** | **Progress** |
+|---|---|
+| Spring Boot & REST APIs | `████████░░` 80% |
+| Hibernate & JPA | `███████░░░` 70% |
+| MySQL & Query Optimization | `██████░░░░` 60% |
+| System Design | `████░░░░░░` 40% |
+| Microservices & Docker | `███░░░░░░░` 30% |
+
+*Progress reflects my self-assessment and learning journey.*
+
+---
+
+## 💡 Philosophy
+
+> "First, solve the problem. Then, write the code."
+
+I believe great software is built at the intersection of **clear thinking** and **disciplined execution**. Every project in this repository represents a step toward building reliable, scalable systems—not just code that works.
+
+I'm focused on building strong fundamentals rather than chasing every trending technology:
+
+**Java → Spring Boot → System Design → Distributed Systems → Product**
+
+My long-term goal is to combine solid engineering skills with product thinking to build software that solves real-world problems.
+
 ## Beyond the Code
 
 - 🏅 **Hackathon finalist:** AERAVAT National-Level Hackathon — Top 40 teams.
